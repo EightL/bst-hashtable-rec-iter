@@ -6,6 +6,8 @@
 
 This project implements several fundamental data structures and algorithms related to binary search trees and hash tables. The implementations are part of a school assignment where I had to complete the following components:
 
+Note: This school project focuses on the actual implementations, all other files were provided by the teachers.
+
 ## Project Components
 
 ### 1. Binary Search Tree - Recursive Implementation (`btree/rec/btree-rec.c`)
